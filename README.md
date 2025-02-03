@@ -1,1 +1,2 @@
 # Energy_Assignment
+I used regex for cleaning and getting mean from the address column, i used codes such as r'[^A-Za-z0-9\s], r'\bWY\b', 'Way', to get shortened address spelled fully. I also used addres to create pattern for extractimng numerical values pattern = r'^[+-]?\d+(\.\d+)?$', i found challenging on getting the right numerical to follow. I finally used regex for my postal codes. Insights gained was how clearly regex can be used to clean data and have it uniformed. 
